@@ -3,20 +3,20 @@
   "tests"
  ],
  "python.testing.unittestEnabled": false,
-"python.testing.pytestEnabled": true,
-"sqltools.connections": [
+ "python.testing.pytestEnabled": true,
+ "sqltools.connections": [
     {
         "connId": 3136,
         "role": "snowpark_analysis_role",
         "driver": "Snowflake",
         "name": "snowpark_extensions_tests",
         "account": "mobilize",
-        "username": "U2FsdGVkX1/quIooQNDG1SZ0Qw8AQkP21ySWlFSBdz9JgjiCl2gnXn6fB8blncUf",
-        "password": "U2FsdGVkX18e6NZeEHvszsgY3PxnpJtZcsTqGoru7g8=",
+        "username": "U2FsdGVkX1+vn/uJstAqXMSA+sBPeoCj2Nco3ZnnXFXCLZzbh19EjNACLflsj63m",
+        "password": "U2FsdGVkX18fZQYcXrIXfiFxIXDEwShhIgUVhDKY1cQ=",
         "database": "snowpark_extensions_tests",
         "warehouse": "snowpark_analysis_wh",
         "schema": "public"
     }
 ],
-"sqltools.defaultConnId": 3136
+ "sqltools.defaultConnId": 3136
 }
